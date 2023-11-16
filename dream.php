@@ -128,7 +128,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   box-shadow: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1180px) {
     form {
             background-color:navy;
             margin-left:10%;
