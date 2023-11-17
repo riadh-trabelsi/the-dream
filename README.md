@@ -21,5 +21,5 @@ permet d'avoir la valeur de change de monaie d'un pays à un autre.
 ### Auteur
 ***Riadh Trabelsi***
 ### Lien
-https://github.com/riadh-trabelsi/the-dream
-http://riadh-trabelsi-dreams.lovestoblog.com/dream.php?
+[github](https://github.com/riadh-trabelsi/the-dream)
+[http://riadh-trabelsi-dreams.lovestoblog.com/dream.php?](http://riadh-trabelsi-dreams.lovestoblog.com/dream.php?)
