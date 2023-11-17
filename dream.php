@@ -147,7 +147,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
             width :100%;
         }
   #button {
-    font-size: 1.5rem; /* 24px */
+    font-size: 0.9rem; /* 24px */
     padding: 1rem 1.5rem;
     line-height: 20px; /* 32px */
     margin-top:10%;
