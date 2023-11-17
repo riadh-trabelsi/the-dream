@@ -165,15 +165,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
         select{
             font-size:20px;
         }
-        .title svg {
-  animation: move 2s linear infinite;
-}
-
-@keyframes move {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(20px); }
-  100% { transform: translateY(0); }
-}
+        
         /* Add more styling as needed */
     </style>
 </head>
